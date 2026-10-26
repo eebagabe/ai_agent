@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6AB4D1D1-C09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiAgent", "src\AiAgent\AiAgent.csproj", "{7A90AFE6-CB70-43B0-AD05-C0FAACF368CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "calculator\CalculatorApp.csproj", "{552472E3-B749-47E7-B829-E944AA5A3954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{7A90AFE6-CB70-43B0-AD05-C0FAACF368CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A90AFE6-CB70-43B0-AD05-C0FAACF368CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A90AFE6-CB70-43B0-AD05-C0FAACF368CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552472E3-B749-47E7-B829-E944AA5A3954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552472E3-B749-47E7-B829-E944AA5A3954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552472E3-B749-47E7-B829-E944AA5A3954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552472E3-B749-47E7-B829-E944AA5A3954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7A90AFE6-CB70-43B0-AD05-C0FAACF368CA} = {6AB4D1D1-C090-42B9-A865-32D391677217}
