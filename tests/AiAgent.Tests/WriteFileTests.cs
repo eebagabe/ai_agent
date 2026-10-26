@@ -1,5 +1,3 @@
-using AiAgent;
-
 namespace AiAgent.Tests;
 
 public class WriteFileTests(WorkingDirectoryFixture fixture) : IClassFixture<WorkingDirectoryFixture>

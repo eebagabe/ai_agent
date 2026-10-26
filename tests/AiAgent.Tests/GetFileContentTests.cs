@@ -1,5 +1,3 @@
-using AiAgent;
-
 namespace AiAgent.Tests;
 
 public class GetFileContentTests(WorkingDirectoryFixture fixture) : IClassFixture<WorkingDirectoryFixture>
